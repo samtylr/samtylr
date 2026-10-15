@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello there!
+Second year Management and Information Technology student at Lancaster University.
 
+portfolio - https://samtylr.com/
 <!--
 **samtylr/samtylr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
